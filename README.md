@@ -1,7 +1,7 @@
 # MonteCarlo_Statistics
 The Probability of collision with the sides of two geometrical shapes are calculated by Monte Carlo
 
- مسالهي احتمالاتی برخورد به دیواره ي مثلث
+ مساله ي احتمالاتی برخورد به دیواره ي مثلث
 
  احتمال برخورد به دیواره ي مثلث از هر نقطه درون مثلث بـا در نظـر گـرفتن پتانسـیلهاي 10 ، 100 و
 صفر براي هر ضلع چقدر است؟
